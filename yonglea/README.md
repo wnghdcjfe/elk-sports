@@ -1,2 +1,0 @@
-# elk-sports
-elk study
